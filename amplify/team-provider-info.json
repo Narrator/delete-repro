@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-deleterepro-dev-fae07-authRole",
+      "UnauthRoleArn": "arn:aws:iam::504152962427:role/amplify-deleterepro-dev-fae07-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::504152962427:role/amplify-deleterepro-dev-fae07-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-deleterepro-dev-fae07-deployment",
+      "UnauthRoleName": "amplify-deleterepro-dev-fae07-unauthRole",
+      "StackName": "amplify-deleterepro-dev-fae07",
+      "StackId": "arn:aws:cloudformation:us-west-2:504152962427:stack/amplify-deleterepro-dev-fae07/311e2530-8021-11ef-9355-02c0d69877ed",
+      "AmplifyAppId": "d2r3y5v8x66hjy"
+    }
+  }
+}
