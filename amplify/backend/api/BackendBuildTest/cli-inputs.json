@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2025-10-02T04:13:56.777Z",
+      "keyDescription": "kaushik"
+    },
+    "conflictResolution": {},
+    "apiName": "BackendBuildTest",
+    "additionalAuthTypes": []
+  }
+}

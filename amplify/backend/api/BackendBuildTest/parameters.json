@@ -1,5 +1,6 @@
 {
   "AppSyncApiName": "BackendBuildTest",
   "DynamoDBBillingMode": "PAY_PER_REQUEST",
-  "DynamoDBEnableServerSideEncryption": false
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2024-10-02T04:14:00.416Z"
 }

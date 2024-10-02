@@ -1,13 +1,15 @@
 {
   "api": {
     "BackendBuildTest": {
+      "dependsOn": [],
       "output": {
         "authConfig": {
           "additionalAuthenticationProviders": [],
           "defaultAuthentication": {
             "apiKeyConfig": {
+              "apiKeyExpirationDate": "2025-10-02T04:13:56.777Z",
               "apiKeyExpirationDays": 365,
-              "description": ""
+              "description": "kaushik"
             },
             "authenticationType": "API_KEY"
           }
