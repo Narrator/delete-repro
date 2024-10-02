@@ -12,9 +12,6 @@
       "AmplifyAppId": "d3gki6escpdjdk"
     },
     "categories": {
-      "auth": {
-        "backendbuildintegtes7ae394d7": {}
-      },
       "api": {
         "BackendBuildTest": {}
       }
